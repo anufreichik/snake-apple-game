@@ -63,7 +63,7 @@ function Cell(props) {
                 }
                 {
                     !props.cell.active && applecell &&
-                    <div><img src={apple} alt="apple"/></div>
+                    <div className='div-apple'><img  src={apple} alt="apple"/></div>
                 }
             </div>
         </td>
