@@ -72,7 +72,9 @@ function App() {
         setField(newField);
         setTraceColor(color);
         setIsTimerActive(true);
-        setApple({rowindex: newField.length - 1, cellindex: newField[0].length - 1});
+        const randomApplePosition={rowindex:Math.floor(Math.random() * (h-1)), cellindex:Math.floor(Math.random() * (w-1))}
+        //setApple({rowindex: newField.length - 1, cellindex: newField[0].length - 1});
+        setApple(randomApplePosition);
         setfieldCreated(true);
 
     }
