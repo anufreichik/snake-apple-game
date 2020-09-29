@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/snake-apple-game/static/css/main.09e1bb96.chunk.css",
-    "main.js": "/snake-apple-game/static/js/main.ee1f1b70.chunk.js",
-    "main.js.map": "/snake-apple-game/static/js/main.ee1f1b70.chunk.js.map",
+    "main.css": "/snake-apple-game/static/css/main.4db23f52.chunk.css",
+    "main.js": "/snake-apple-game/static/js/main.6f949459.chunk.js",
+    "main.js.map": "/snake-apple-game/static/js/main.6f949459.chunk.js.map",
     "runtime-main.js": "/snake-apple-game/static/js/runtime-main.5e891e2b.js",
     "runtime-main.js.map": "/snake-apple-game/static/js/runtime-main.5e891e2b.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/snake-apple-game/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.32ce76d8.chunk.js": "/snake-apple-game/static/js/2.32ce76d8.chunk.js",
     "static/js/2.32ce76d8.chunk.js.map": "/snake-apple-game/static/js/2.32ce76d8.chunk.js.map",
     "index.html": "/snake-apple-game/index.html",
-    "precache-manifest.dfa6ccdb18cef188898fc3e039a4d06a.js": "/snake-apple-game/precache-manifest.dfa6ccdb18cef188898fc3e039a4d06a.js",
+    "precache-manifest.f86075ecd5c93fa5a936bfc87d89d095.js": "/snake-apple-game/precache-manifest.f86075ecd5c93fa5a936bfc87d89d095.js",
     "service-worker.js": "/snake-apple-game/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/snake-apple-game/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.09e1bb96.chunk.css.map": "/snake-apple-game/static/css/main.09e1bb96.chunk.css.map",
+    "static/css/main.4db23f52.chunk.css.map": "/snake-apple-game/static/css/main.4db23f52.chunk.css.map",
     "static/js/2.32ce76d8.chunk.js.LICENSE.txt": "/snake-apple-game/static/js/2.32ce76d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5e891e2b.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.32ce76d8.chunk.js",
-    "static/css/main.09e1bb96.chunk.css",
-    "static/js/main.ee1f1b70.chunk.js"
+    "static/css/main.4db23f52.chunk.css",
+    "static/js/main.6f949459.chunk.js"
   ]
 }
